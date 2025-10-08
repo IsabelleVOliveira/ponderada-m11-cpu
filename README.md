@@ -2,6 +2,13 @@
 
 Vídeo de demosntração: [https://youtu.be/CjeqOnWI43w](https://youtu.be/CjeqOnWI43w?si=StVY-bTJOdMpGsHa)
 
+## Como executar o projeto
+
+Para executar o projeto é necessário instalar software Digital a partir desse link: https://github.com/hneemann/Digital
+A instalação do Java Environment (pelo menos JRE 8) é necessário para executar o Digital.
+
+Depois dessas instalações concluidas o usuário deve baixar a pasta ./cpu e abrir o componente cpu.dig no simulador Digital e executar o mesmo para testar as funcionalidades do projeto.
+
 Esse projeto desenvolvido no software Digital tem o objetivo de simular uma CPU de 8 bits contendo:
 
 - ALU (Arithmetic Logic Unit)
